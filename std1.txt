@@ -1,0 +1,11 @@
+Name : Abi
+Roll Number : 101
+Class : X
+School Name : Zamindar's Hr. sec. school 
+Tamil=100
+English=100
+Math=100
+Scince=100
+S.S=100
+Total=500
+Percentage10000.0%
