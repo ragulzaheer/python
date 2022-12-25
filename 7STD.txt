@@ -1,0 +1,11 @@
+Name :Raji
+Roll Number : 107
+Class : 10
+School Name : Anna hr.sec.schoolTamil=88
+English=85
+Math=87
+Scince=89
+S.S=93
+Total=442
+Percentage=88.4%
+Pass

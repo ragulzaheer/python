@@ -1,0 +1,11 @@
+Name :Moulee
+Roll Number : 105
+Class : 10
+School Name : Anna hr.sec.schoolTamil=45
+English=30
+Math=33
+Scince=72
+S.S=55
+Total=235
+Percentage=47.0%
+Fail

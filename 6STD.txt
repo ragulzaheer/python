@@ -1,0 +1,11 @@
+Name :Ragul
+Roll Number : 106
+Class : 10
+School Name : Anna hr.sec.schoolTamil=70
+English=72
+Math=85
+Scince=77
+S.S=88
+Total=392
+Percentage=78.4%
+Pass

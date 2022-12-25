@@ -1,0 +1,11 @@
+Name :Veeramani
+Roll Number : 109
+Class : 10
+School Name : Anna hr.sec.schoolTamil=80
+English=33
+Math=30
+Scince=40
+S.S=49
+Total=232
+Percentage=46.400000000000006%
+Fail

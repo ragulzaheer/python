@@ -1,0 +1,11 @@
+Name :Solomon
+Roll Number : 108
+Class : 10
+School Name : Anna hr.sec.schoolTamil=73
+English=83
+Math=80
+Scince=70
+S.S=75
+Total=381
+Percentage=76.2%
+Pass

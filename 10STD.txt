@@ -1,0 +1,11 @@
+Name :Faizal
+Roll Number : 201
+Class : 10
+School Name : Anna hr.sec.schoolTamil=30
+English=33
+Math=32
+Scince=20
+S.S=25
+Total=140
+Percentage=28.000000000000004%
+Fail

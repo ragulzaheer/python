@@ -42,17 +42,29 @@ def student():
     
         else:
             Student.write("Pass")
-            
+
     Student = []
-    for i in range(1,4):
+    for i in range(1,11):
         Student = open(str(i)+"STD.txt","w")
     Student = open("1STD.txt","w")
     student_details()
     Student = open("2STD.txt","w")
     student_details()
+    Student = open("3STD.txt","w")
+    student_details()
+    Student = open("4STD.txt","w")
+    student_details()
+    Student = open("5STD.txt","w")
+    student_details()
+    Student = open("6STD.txt","w")
+    student_details()
+    Student = open("7STD.txt","w")
+    student_details()
+    Student = open("8STD.txt","w")
+    student_details()
+    Student = open("9STD.txt","w")
+    student_details()
+    Student = open("10STD.txt","w")
+    student_details()
 
-  
-   
-    
-   
 student()

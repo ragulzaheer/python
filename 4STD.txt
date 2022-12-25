@@ -1,11 +1,11 @@
-Name :Anbu
-Roll Number : 102
+Name :Karthi
+Roll Number : 104
 Class : 10
 School Name : Anna hr.sec.schoolTamil=88
-English=87
-Math=89
-Scince=90
-S.S=91
+English=89
+Math=98
+Scince=95
+S.S=75
 Total=445
 Percentage=89.0%
 Pass

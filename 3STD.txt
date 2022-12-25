@@ -1,0 +1,11 @@
+Name :Perumal
+Roll Number : 103
+Class : 10
+School Name : Anna hr.sec.schoolTamil=88
+English=85
+Math=93
+Scince=98
+S.S=90
+Total=454
+Percentage=90.8%
+Pass

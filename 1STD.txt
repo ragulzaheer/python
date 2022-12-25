@@ -1,11 +1,11 @@
-Name :abi
+Name :Abinesh
 Roll Number : 101
 Class : 10
-School Name : z1Tamil=100
-English=100
-Math=100
-Scince=100
-S.S=100
-Total=500
-Percentage=100.0%
+School Name : Anna hr.sec.schoolTamil=85
+English=78
+Math=45
+Scince=40
+S.S=95
+Total=343
+Percentage=68.60000000000001%
 Pass
