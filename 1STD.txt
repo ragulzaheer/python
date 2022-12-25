@@ -1,0 +1,11 @@
+Name :abi
+Roll Number : 101
+Class : 10
+School Name : z1Tamil=100
+English=100
+Math=100
+Scince=100
+S.S=100
+Total=500
+Percentage=100.0%
+Pass

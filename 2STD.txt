@@ -1,0 +1,11 @@
+Name :anbu
+Roll Number : 102
+Class : 10
+School Name : z1Tamil=70
+English=34
+Math=33
+Scince=35
+S.S=70
+Total=242
+Percentage=48.4%
+Fail
